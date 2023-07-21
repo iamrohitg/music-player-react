@@ -57,6 +57,3 @@ docker-compose up -d
 ![browse](images/browse.png?raw=true 'Playlist')
 ![playlist](images/playlist.png?raw=true 'Artist')
 ![artist](images/artist.png?raw=true 'Artist')
-![devices](images/devices.png?raw=true 'Artist')
-
-More in images folder.
